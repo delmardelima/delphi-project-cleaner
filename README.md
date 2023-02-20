@@ -12,8 +12,9 @@ Este script em batch é usado para limpar os arquivos temporários do projeto De
 ### Observações
 
 - Certifique-se de selecionar a opção correta no menu de opções.
-- Para a opção 1, será solicitado que você informe o caminho do projeto Delphi que deseja limpar. Certifique-se de informar o caminho correto.
+- Certifique-se que o caminho do projeto Delphi é o correto.
 - Este script foi testado em ambiente Windows.
+- Use este script por sua própria conta e risco.
 
 ### Licença
 
